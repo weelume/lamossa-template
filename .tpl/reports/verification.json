@@ -1,0 +1,86 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-03T03:41:47.003Z",
+  "sourceCommit": null,
+  "sourceDigest": "e42fca6cbfbbe868762c5986b05e7beb6e508c0d3841f266cf9fcffd6648b69f",
+  "environment": {
+    "platform": "linux (local WSL, Linux filesystem)",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T03:41:14.991Z",
+      "finishedAt": "2026-11-03T03:41:19.144Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T03:41:19.147Z",
+      "finishedAt": "2026-11-03T03:41:22.275Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T03:41:22.276Z",
+      "finishedAt": "2026-11-03T03:41:44.480Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T03:41:44.481Z",
+      "finishedAt": "2026-11-03T03:41:46.544Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-11-03T03:41:47.003Z"
+    }
+  ],
+  "limitations": [
+    "全部构建和依赖安装在本地 WSL Linux 文件系统执行，未部署。",
+    "HTTP 测试启动随机空闲端口的真实预览服务，检查完成后停止该实例。",
+    "内置浏览器结果与截图见 docs/BROWSER.json；未完成所有原站动效逐帧量化对照。",
+    "减少动态效果分支已实现，未实机切换系统设置。",
+    "独立验收目录为本地源码同步副本，未声称远端克隆验收。"
+  ]
+}

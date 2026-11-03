@@ -1,0 +1,316 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "lamossa",
+  "version": "1.0.0",
+  "name": "Lamosa · 产品设计工作室",
+  "localizedNames": {
+    "en": "Lamosa · Product design studio"
+  },
+  "gitUrl": "https://github.com/weelume/lamossa-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "设计机构",
+    "流体渐变",
+    "错峰评价",
+    "项目案例",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "summary": "产品与网站设计工作室整站，含六个案例、六篇文章、四个职位、双语正文与动态服务展示。",
+  "accentColor": "#fa4b36",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Lamosa 首页",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-projects.webp",
+      "alt": "Lamosa 项目案例",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "Lamosa 洞察文章",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Lamosa 联系页",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Lamosa 首页",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-projects.webp",
+      "alt": "Lamosa 项目案例",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "Lamosa 洞察文章",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Lamosa 联系页",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Lamosa 首页",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-projects.webp",
+      "alt": "Lamosa 项目案例",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "Lamosa 洞察文章",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Lamosa 联系页",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "projects",
+          "title": "项目案例",
+          "localizedTitles": {
+            "en": "Projects"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "洞察文章",
+          "localizedTitles": {
+            "en": "Blog"
+          }
+        },
+        {
+          "slug": "about-us",
+          "title": "关于我们",
+          "localizedTitles": {
+            "en": "About us"
+          }
+        },
+        {
+          "slug": "contact-us",
+          "title": "联系我们",
+          "localizedTitles": {
+            "en": "Contact us"
+          }
+        },
+        {
+          "slug": "career",
+          "title": "加入团队",
+          "localizedTitles": {
+            "en": "Career"
+          }
+        },
+        {
+          "slug": "projects/redesigning-atlas",
+          "title": "Atlas 体验重塑",
+          "localizedTitles": {
+            "en": "Redesigning Atlas"
+          }
+        },
+        {
+          "slug": "projects/launch-mvp-for-finlytics",
+          "title": "Finlytics MVP 发布",
+          "localizedTitles": {
+            "en": "Launch MVP for Finlytics"
+          }
+        },
+        {
+          "slug": "projects/orbital-website-redesign",
+          "title": "Orbital 网站改版",
+          "localizedTitles": {
+            "en": "Orbital Website Redesign"
+          }
+        },
+        {
+          "slug": "projects/echo-analytics-motion-branding-launch-microsite",
+          "title": "Echo 数据分析",
+          "localizedTitles": {
+            "en": "Echo analytics"
+          }
+        },
+        {
+          "slug": "projects/nova-e-commerce-platform-ui-overhaul",
+          "title": "Nova 电商平台",
+          "localizedTitles": {
+            "en": "Nova Platform"
+          }
+        },
+        {
+          "slug": "projects/boldbrand-identity-for-studioz",
+          "title": "StudioZ 品牌身份",
+          "localizedTitles": {
+            "en": "Brand Identity - StudioZ"
+          }
+        },
+        {
+          "slug": "blog/why-motion-design-is-the-new-differentiator-in-saas",
+          "title": "动效为何成为 SaaS 的新差异点",
+          "localizedTitles": {
+            "en": "Why Motion Design is the New Differentiator in SaaS"
+          }
+        },
+        {
+          "slug": "blog/the-psychology-behind-high-converting-landing-pages",
+          "title": "高转化落地页背后的心理学",
+          "localizedTitles": {
+            "en": "The Psychology Behind High-Converting Landing Pages"
+          }
+        },
+        {
+          "slug": "blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+          "title": "做好 MVP 的六条规则",
+          "localizedTitles": {
+            "en": "Building an MVP That Doesn’t Suck: 6 Rules to Follow"
+          }
+        },
+        {
+          "slug": "legal-pages/privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy Policy"
+          }
+        },
+        {
+          "slug": "legal-pages/terms-of-service",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms of Service"
+          }
+        },
+        {
+          "slug": "blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+          "title": "五个善用叙事的现代营销活动",
+          "localizedTitles": {
+            "en": "5 Modern Marketing Campaigns That Nailed Storytelling"
+          }
+        },
+        {
+          "slug": "blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+          "title": "十个善用叙事的现代营销活动",
+          "localizedTitles": {
+            "en": "10 Modern Marketing Campaigns That Nailed Storytelling"
+          }
+        },
+        {
+          "slug": "blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+          "title": "做好 MVP 的六条规则 · 副本",
+          "localizedTitles": {
+            "en": "Building an MVP That Doesn’t Suck: 6 Rules to Follow Copy"
+          }
+        },
+        {
+          "slug": "career/creative-director",
+          "title": "创意总监",
+          "localizedTitles": {
+            "en": "Creative Director"
+          }
+        },
+        {
+          "slug": "career/motion-designer",
+          "title": "动效设计师",
+          "localizedTitles": {
+            "en": "Motion Designer"
+          }
+        },
+        {
+          "slug": "career/no-code-web-developer-framer-specialist",
+          "title": "无代码网站开发者",
+          "localizedTitles": {
+            "en": "No-Code Web Developer"
+          }
+        },
+        {
+          "slug": "career/freelance-motion-designer-remote",
+          "title": "高级产品设计师",
+          "localizedTitles": {
+            "en": "Senior Product Designer"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "commercial",
+    "file": "docs/LICENSE.md",
+    "summary": "用户已确认参考模板与素材再分发授权；各自许可仍适用。",
+    "redistributionAllowed": true
+  }
+}

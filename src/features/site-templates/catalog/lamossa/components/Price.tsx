@@ -1,0 +1,4 @@
+'use client'
+import{AnimatePresence,motion,useReducedMotion}from'framer-motion'
+/** 金额按数位滚动；固定列宽避免勾选开发选项时卡片横向跳动。 */
+export function Price({value,increasing=true}:{value:number;increasing?:boolean}){const reduced=useReducedMotion(),direction=increasing?1:-1;return <span className="lm-rolling-price" aria-label={'$ '+value.toLocaleString('en-US')}><span aria-hidden="true">$ </span>{value.toLocaleString('en-US').split('').map((digit,i)=><span className={digit===','?'lm-price-comma':'lm-price-digit'} key={i} aria-hidden="true"><AnimatePresence initial={false} mode="popLayout"><motion.span key={digit} initial={reduced?false:{y:`${direction*100}%`,opacity:0}} animate={{y:0,opacity:1}} exit={{y:`${direction*-100}%`,opacity:0}} transition={{duration:reduced?0:1,ease:[.16,1,.3,1]}}>{digit}</motion.span></AnimatePresence></span>)}</span>}

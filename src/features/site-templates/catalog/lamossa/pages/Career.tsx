@@ -1,0 +1,10 @@
+import Link from'next/link'
+import type{SiteTemplatePageProps as TemplatePageProps}from'../../../types'
+import{copy,photo}from'../config'
+import{benefits}from'../content/people'
+import{jobs}from'../content/catalog'
+import{Shell}from'../components/Shell'
+import{Heading,PageHeader}from'../components/Common'
+import{Reveal}from'../components/Motion'
+import{Team}from'../components/Cards'
+export default function Career({locale='zh',basePath}:TemplatePageProps){const p={locale,basePath};return <Shell {...p}><PageHeader locale={locale} title={copy('加入我们\n一起做大胆的事','Be part of\nsomething bold.')} description={copy('让想法自由流动，让创新蓬勃生长。','Creating a culture where ideas flow freely and innovation thrives.')}/><section className="lm-container lm-about-collage">{['alY2eS5nZoNFS6wnGRdXfdkB2EA.jpg','m3OPVh6D22hMbx8YqfaTiiMgg.jpg','5P4mf0nzLqbzNYVlGq7NJ5pHyM.jpg'].map((file,i)=><Reveal key={file} delay={i*.2}><img src={photo(file)} alt={locale==='zh'?'团队工作与相聚':'Team at work and together'}/></Reveal>)}</section><section className="lm-container lm-section"><Heading locale={locale} title={copy('推动我们的\n是这样的氛围','This’s the vibe\nThat drives us.')} description={copy('快速行动，打磨细节，把用户放在每次创造的中心。如果你重视表现、简单与真实影响，这里适合你。','We move fast, refine every detail, and put the user at the heart of everything we create. If you’re driven by performance, simplicity, and the thrill of making a real impact on the web, you’ll thrive at Lamosa.')}/><div className="lm-benefits">{benefits.map(([title,text],i)=><Reveal key={title.en} delay={(i%3)*.2} className="lm-glass"><small>0{i+1}</small><h3>{title[locale]}</h3><p>{text[locale]}</p></Reveal>)}</div></section><Team {...p}/><section className="lm-container lm-section" id="section-open-roles"><Heading locale={locale} title={copy('开放职位\n加入创意力量','Open Roles.\nJoin the Creative Force.')}/><div className="lm-jobs">{jobs.map(page=><Reveal key={page.slug}><Link className="lm-job lm-glass" href={`${basePath}/${page.slug}`}><h3>{page.title[locale]}</h3><span>{page.specs[3][locale]} · {page.specs[2][locale]}</span><strong>{page.specs[4][locale]}</strong><b>{locale==='zh'?'查看职位':'Apply'}</b></Link></Reveal>)}</div></section></Shell>}

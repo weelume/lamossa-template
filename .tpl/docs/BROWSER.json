@@ -1,0 +1,3472 @@
+{
+  "checkedAt": "2026-11-03T03:40:11.387Z",
+  "browser": "Codex 内置浏览器",
+  "status": "passed-with-documented-limits",
+  "layout": [
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 15,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 6,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/about-us",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/contact-us",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/career",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 2,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/redesigning-atlas",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/launch-mvp-for-finlytics",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 3,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/orbital-website-redesign",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/projects/boldbrand-identity-for-studioz",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 4,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 3,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 2,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/legal-pages/privacy-policy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/legal-pages/terms-of-service",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 1,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/career/creative-director",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/career/motion-designer",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/career/no-code-web-developer-framer-specialist",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/career/freelance-motion-designer-remote",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 7,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 6,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/about-us",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/contact-us",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/career",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 5,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/redesigning-atlas",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 4,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/launch-mvp-for-finlytics",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 4,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/orbital-website-redesign",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 5,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/projects/boldbrand-identity-for-studioz",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 4,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 3,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 2,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/privacy-policy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/terms-of-service",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 1,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/career/creative-director",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/career/motion-designer",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/career/no-code-web-developer-framer-specialist",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "pending": 0,
+      "scrollWidth": 1430,
+      "scrollbars": "true",
+      "url": "/en/career/freelance-motion-designer-remote",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 15,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 4,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/about-us",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/contact-us",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/career",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 2,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/redesigning-atlas",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/launch-mvp-for-finlytics",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 3,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/orbital-website-redesign",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/projects/boldbrand-identity-for-studioz",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 4,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 3,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 2,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/legal-pages/privacy-policy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/legal-pages/terms-of-service",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 1,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/career/creative-director",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/career/motion-designer",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/career/no-code-web-developer-framer-specialist",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/career/freelance-motion-designer-remote",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 7,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 4,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/about-us",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/contact-us",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/career",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 5,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/redesigning-atlas",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 4,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/launch-mvp-for-finlytics",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 4,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/orbital-website-redesign",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 5,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/projects/boldbrand-identity-for-studioz",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/privacy-policy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/terms-of-service",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/career/creative-director",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/career/motion-designer",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/career/no-code-web-developer-framer-specialist",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "pending": 0,
+      "scrollWidth": 824,
+      "scrollbars": "true",
+      "url": "/en/career/freelance-motion-designer-remote",
+      "width": 834
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 15,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 8,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 2,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/about-us",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/contact-us",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/career",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/redesigning-atlas",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/launch-mvp-for-finlytics",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/orbital-website-redesign",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/projects/boldbrand-identity-for-studioz",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/legal-pages/privacy-policy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/legal-pages/terms-of-service",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/career/creative-director",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/career/motion-designer",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/career/no-code-web-developer-framer-specialist",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/career/freelance-motion-designer-remote",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 13,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 8,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 2,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/about-us",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/contact-us",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/career",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/redesigning-atlas",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/launch-mvp-for-finlytics",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/orbital-website-redesign",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/projects/boldbrand-identity-for-studioz",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 2,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/privacy-policy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/terms-of-service",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/career/creative-director",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/career/motion-designer",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/career/no-code-web-developer-framer-specialist",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 380,
+      "scrollbars": "true",
+      "url": "/en/career/freelance-motion-designer-remote",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 15,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 7,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 2,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/about-us",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/contact-us",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/career",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/redesigning-atlas",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/launch-mvp-for-finlytics",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/orbital-website-redesign",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/projects/boldbrand-identity-for-studioz",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/legal-pages/privacy-policy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/legal-pages/terms-of-service",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/career/creative-director",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/career/motion-designer",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/career/no-code-web-developer-framer-specialist",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/career/freelance-motion-designer-remote",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 7,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 6,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/about-us",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/contact-us",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/career",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/redesigning-atlas",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/launch-mvp-for-finlytics",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/orbital-website-redesign",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/echo-analytics-motion-branding-launch-microsite",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 5,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/nova-e-commerce-platform-ui-overhaul",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/projects/boldbrand-identity-for-studioz",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 4,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 3,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 2,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/privacy-policy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/legal-pages/terms-of-service",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 1,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/career/creative-director",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/career/motion-designer",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/career/no-code-web-developer-framer-specialist",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "pending": 0,
+      "scrollWidth": 310,
+      "scrollbars": "true",
+      "url": "/en/career/freelance-motion-designer-remote",
+      "width": 320
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 1430,
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 1430,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 1000,
+      "scrollWidth": 1430,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 1440,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 824,
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 824,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 1180,
+      "scrollWidth": 824,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 834,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 380,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 380,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 380,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 390,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 0,
+      "broken": [],
+      "contentWidth": 310,
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 6,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/why-motion-design-is-the-new-differentiator-in-saas",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/the-psychology-behind-high-converting-landing-pages",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/5-modern-marketing-campaigns-that-nailed-storytelling-copy",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    },
+    {
+      "bodyImages": 7,
+      "broken": [],
+      "contentWidth": 310,
+      "cover": "/templates/lamossa/photos/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "h1": 1,
+      "height": 844,
+      "scrollWidth": 310,
+      "url": "/en/blog/building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy",
+      "width": 320,
+      "recheck": "article-cover-and-body-images"
+    }
+  ],
+  "interactions": [
+    {
+      "check": "mobile menu opened",
+      "dialog": true,
+      "focus": "关闭菜单",
+      "locked": "hidden"
+    },
+    {
+      "check": "mobile menu escape",
+      "focus": "打开导航菜单",
+      "locked": ""
+    },
+    {
+      "check": "mobile feature initial",
+      "image": "/templates/lamossa/photos/WqQf4wcmdILCz9dZMRSewAqbnmg.png",
+      "slide": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -143.013)"
+    },
+    {
+      "check": "mobile feature automatic next",
+      "image": "/templates/lamossa/photos/WqQf4wcmdILCz9dZMRSewAqbnmg.png",
+      "slide": "1"
+    },
+    {
+      "check": "mobile feature manual next paused",
+      "paused": "true",
+      "slide": "0"
+    },
+    {
+      "check": "mobile feature reset",
+      "slide": "0"
+    },
+    {
+      "check": "mobile feature running later state",
+      "slide": "1"
+    },
+    {
+      "device": "mobile",
+      "check": "service 0",
+      "expanded": "true",
+      "text": "在 Figma 中打造简洁、以用户为中心的界面，提升参与与转化。"
+    },
+    {
+      "device": "mobile",
+      "check": "service 1",
+      "expanded": "true",
+      "text": "以 Framer 构建极速、可扩展的网站，无需应对传统代码的复杂性。"
+    },
+    {
+      "device": "mobile",
+      "check": "service 2",
+      "expanded": "true",
+      "text": "快速发布高转化的 MVP 与落地页，验证想法并推动增长。"
+    },
+    {
+      "device": "mobile",
+      "check": "service 3",
+      "expanded": "true",
+      "text": "持续提供设计支持与更新，让你的数字体验始终走在前沿。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 0",
+      "expanded": "false",
+      "text": "每套模板包含完整响应式设计、可编辑组件与适合搜索引擎的结构，可直接开始定制。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 1",
+      "expanded": "true",
+      "text": "不需要，原版模板可直接在 Framer 可视化编辑器中无代码定制。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 2",
+      "expanded": "true",
+      "text": "每次购买包含一个项目的使用许可；用于多个项目需购买额外许可。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 3",
+      "expanded": "true",
+      "text": "是的，每套模板都注重快速加载、清晰结构与移动优先优化。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 4",
+      "expanded": "true",
+      "text": "是的，我们提供邮件支持与文档，帮助你快速上手并解决问题。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 5",
+      "expanded": "true",
+      "text": "当然可以！Framer 支持分析、表单与营销平台等工具集成。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 6",
+      "expanded": "true",
+      "text": "是的，我们提供设计与开发服务，满足专属方案或功能增强需求；更多详情可查看 lunixify dot studio。"
+    },
+    {
+      "device": "mobile",
+      "check": "faq 7",
+      "expanded": "true",
+      "text": "是的，我们会定期更新，提升性能、增加功能并修复问题。"
+    },
+    {
+      "device": "mobile",
+      "check": "price checked",
+      "label": "$ 3,200",
+      "href": "/contact-us?plan=Product%20design&development=1"
+    },
+    {
+      "device": "mobile",
+      "check": "price unchecked",
+      "label": "$ 2,200"
+    },
+    {
+      "device": "mobile",
+      "check": "process paused",
+      "state": "false",
+      "voice": "running",
+      "status": "superseded",
+      "reason": "异步导航/自动滚动尚未稳定时采样，后续明确等待并通过复核。"
+    },
+    {
+      "device": "mobile",
+      "check": "process paused after scroll settled",
+      "state": "true",
+      "voice": "paused"
+    },
+    {
+      "device": "mobile",
+      "check": "process resumed",
+      "state": "false"
+    },
+    {
+      "device": "mobile",
+      "check": "invalid local form",
+      "invalid": 7
+    },
+    {
+      "device": "mobile",
+      "check": "valid local form",
+      "status": "本地校验通过。演示表单尚未发送，也未保存数据。"
+    },
+    {
+      "device": "mobile",
+      "check": "language same page parameters and hash",
+      "url": "http://localhost:3043/contact-us?source=qa#section-form",
+      "status": "superseded",
+      "reason": "异步导航/自动滚动尚未稳定时采样，后续明确等待并通过复核。"
+    },
+    {
+      "device": "desktop",
+      "check": "language same page query hash",
+      "url": "http://localhost:3043/en/contact-us?source=qa#section-form"
+    },
+    {
+      "device": "tablet",
+      "check": "faq default first open",
+      "state": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "service keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "service keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "service keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "service keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 4",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 5",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 6",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "faq keyboard 7",
+      "expanded": "true"
+    },
+    {
+      "device": "tablet",
+      "check": "price option",
+      "price": "$ 3,200"
+    },
+    {
+      "device": "tablet",
+      "check": "voice loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "tablet",
+      "check": "logo loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "desktop",
+      "check": "faq default first open",
+      "state": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "service keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "service keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "service keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "service keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 4",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 5",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 6",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "faq keyboard 7",
+      "expanded": "true"
+    },
+    {
+      "device": "desktop",
+      "check": "price option",
+      "price": "$ 3,200"
+    },
+    {
+      "device": "desktop",
+      "check": "voice loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "desktop",
+      "check": "logo loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "mobile",
+      "check": "faq default first open",
+      "state": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "service keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "service keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "service keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "service keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 0",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 1",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 2",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 3",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 4",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 5",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 6",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "faq keyboard 7",
+      "expanded": "true"
+    },
+    {
+      "device": "mobile",
+      "check": "price option",
+      "price": "$ 3,200"
+    },
+    {
+      "device": "mobile",
+      "check": "voice loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "mobile",
+      "check": "logo loop paused",
+      "state": "true",
+      "playState": "paused"
+    },
+    {
+      "device": "mobile",
+      "check": "language verified navigation query hash",
+      "url": "http://localhost:3043/en/contact-us?source=qa#section-form"
+    },
+    {
+      "device": "desktop",
+      "check": "hero initial review positions",
+      "at": 1793676312574,
+      "canvas": [
+        {
+          "height": 150,
+          "width": 300
+        }
+      ],
+      "cards": [
+        {
+          "top": "297px",
+          "transform": "rotate(8deg)"
+        },
+        {
+          "top": "162.5px",
+          "transform": "rotate(4deg)"
+        },
+        {
+          "top": "28px",
+          "transform": "none"
+        },
+        {
+          "top": "-150px",
+          "transform": "rotate(-4deg)"
+        }
+      ]
+    },
+    {
+      "device": "desktop",
+      "check": "hero review final positions and live shader",
+      "at": 1793676353400,
+      "canvas": [
+        {
+          "height": 514,
+          "width": 930
+        }
+      ],
+      "cards": [
+        {
+          "top": "445px",
+          "transform": "rotate(4deg)"
+        },
+        {
+          "top": "297px",
+          "transform": "none"
+        },
+        {
+          "top": "162.5px",
+          "transform": "rotate(-4deg)"
+        },
+        {
+          "top": "28px",
+          "transform": "rotate(-8deg)"
+        }
+      ],
+      "errors": false
+    },
+    {
+      "device": "desktop",
+      "check": "feature start sample",
+      "at": 1793676353580,
+      "slide": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, -916.848)"
+    },
+    {
+      "device": "desktop",
+      "check": "feature later motion sample",
+      "at": 1793676391162,
+      "slide": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -1130.26)"
+    },
+    {
+      "device": "desktop",
+      "check": "feature paused sample",
+      "at": 1793676391211,
+      "paused": "true",
+      "slide": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -98.4547)"
+    },
+    {
+      "device": "desktop",
+      "check": "counters initial",
+      "values": [
+        "500+",
+        "50%",
+        "$50M+",
+        "0+"
+      ]
+    },
+    {
+      "device": "desktop",
+      "check": "native page scroll and review parallax",
+      "content": 1430,
+      "scroll": 874.6666870117188,
+      "track": "transform: translateY(349.867px);",
+      "viewport": 1440
+    },
+    {
+      "device": "desktop",
+      "check": "counters entered",
+      "values": [
+        "500+",
+        "50%",
+        "$50M+",
+        "0+"
+      ]
+    },
+    {
+      "device": "desktop",
+      "check": "counter end values",
+      "values": [
+        "1,500+",
+        "126%",
+        "$100M+",
+        "12+"
+      ]
+    },
+    {
+      "device": "desktop",
+      "check": "feature pause stable sample A",
+      "at": 1793677166898,
+      "paused": "true",
+      "play": [
+        "paused"
+      ],
+      "slide": "2",
+      "transform": "animation-play-state: paused;"
+    },
+    {
+      "device": "desktop",
+      "check": "feature pause stable sample B",
+      "at": 1793677167259,
+      "matrix": "matrix(1, 0, 0, 1, 0, -66.8076)",
+      "paused": "true",
+      "slide": "2"
+    },
+    {
+      "device": "desktop",
+      "check": "feature manual next",
+      "slide": "0"
+    },
+    {
+      "device": "desktop",
+      "check": "feature resumed",
+      "state": "false"
+    },
+    {
+      "device": "desktop",
+      "check": "blog motion category",
+      "count": 1
+    },
+    {
+      "device": "desktop",
+      "check": "blog empty search",
+      "count": 0,
+      "status": "没有匹配的文章，请调整搜索或分类。"
+    },
+    {
+      "device": "desktop",
+      "check": "blog reset",
+      "count": 6
+    },
+    {
+      "check": "console after final runtime reload",
+      "entries": []
+    }
+  ],
+  "screenshots": {
+    "count": 12,
+    "desktop": [
+      1430,
+      993
+    ],
+    "tablet": [
+      824,
+      1166
+    ],
+    "mobile": [
+      380,
+      822
+    ],
+    "upscaled": false
+  },
+  "limits": [
+    "未逐帧量化全部原站轨迹，未实机切换系统减少动态效果设置。",
+    "内置浏览器曾出现预览重启相关历史预取失败；最终运行阶段控制台条目单独按时间记录。",
+    "未对系统原生滚动条的悬停/拖动做三端定量比较。"
+  ]
+}
